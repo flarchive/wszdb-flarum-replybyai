@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of wszdb/flarum-replybyai.** Not for installation: use [Packagist](https://packagist.org/packages/wszdb/flarum-replybyai) or the [upstream repository](https://github.com/wszdb/flarum-replybyai).
 
-**0** versions archived · Latest: [`v1.2`](https://github.com/flarchive/wszdb-flarum-replybyai/tree/archive/v1.2) · License: `MIT` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v1.2`](https://github.com/flarchive/wszdb-flarum-replybyai/tree/archive/v1.2) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2025-10-12 | `^1.2.0` | [Browse](https://github.com/flarchive/wszdb-flarum-replybyai/tree/archive/v1.0) |
+| `v1.1` | 2025-10-12 | `^1.2.0` | [Browse](https://github.com/flarchive/wszdb-flarum-replybyai/tree/archive/v1.1) |
+| `v1.2` | 2025-10-18 | `^1.2.0` | [Browse](https://github.com/flarchive/wszdb-flarum-replybyai/tree/archive/v1.2) |
 
 Catalog entry: [packages/wszdb-flarum-replybyai.json](https://github.com/flarchive/archive-index/blob/main/packages/wszdb-flarum-replybyai.json)
 
